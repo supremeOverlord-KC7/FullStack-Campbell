@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"C:/Users/Kenadi/Documents/Git Hub/FullStack-Campbell/assignments/earththoughts/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Kenadi/Documents/Git Hub/FullStack-Campbell/assignments/earththoughts","disabled":false,"__vagrantfile":true}}}
